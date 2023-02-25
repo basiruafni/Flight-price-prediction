@@ -12,11 +12,11 @@ Below are some points that explain why we should use the Random Forest algorithm
 
 ## Summary
 The aim of the project is to answer the below research questions:
-a) Does price vary with Airlines?
-b) How is the price affected when tickets are bought in just 1 or 2 days before departure?
-c) Does ticket price change based on the departure time and arrival time?
-d) How the price changes with change in Source and Destination?
-e) How does the ticket price vary between Economy and Business class?
+1) Does price vary with Airlines?
+2) How is the price affected when tickets are bought in just 1 or 2 days before departure?
+3) Does ticket price change based on the departure time and arrival time?
+4) How the price changes with change in Source and Destination?
+5) How does the ticket price vary between Economy and Business class?
 ## Tools
 The tools are Python as programming language and libraries used are Pandas, Numpy, Matplotlib and Seaborn. And Scikit-learn for implementing Machine Learning algorithms.
 ## Dataset
